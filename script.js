@@ -1,7 +1,6 @@
-
     function SIM(){
         alert("Eu te amo minha patinha  ❤️❤️❤️ ")
-        alert("Você está oficialmente convidada para o meu casamento, vá vestida de branco, e convide sua família! 💗💕💗💕")
+        alert("Você está oficialmente convidada para o meu casamento, vá vestida de branco, e convide sua família! 👰🏻‍♀️💗💕💗💕")
     }
 
     function desvia(t){
